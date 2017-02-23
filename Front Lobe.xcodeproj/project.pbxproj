@@ -10,8 +10,8 @@
 		27C4A4DE1E5E001E0067F77F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4DD1E5E001E0067F77F /* AppDelegate.swift */; };
 		27C4A4E21E5E001E0067F77F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27C4A4E11E5E001E0067F77F /* Assets.xcassets */; };
 		27C4A4E51E5E001E0067F77F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27C4A4E31E5E001E0067F77F /* Main.storyboard */; };
-		27C4A4F01E5E001F0067F77F /* Fron_LobeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4EF1E5E001F0067F77F /* Fron_LobeTests.swift */; };
-		27C4A4FB1E5E001F0067F77F /* Fron_LobeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4FA1E5E001F0067F77F /* Fron_LobeUITests.swift */; };
+		27C4A4F01E5E001F0067F77F /* Front_LobeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4EF1E5E001F0067F77F /* Front_LobeTests.swift */; };
+		27C4A4FB1E5E001F0067F77F /* Front_LobeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4FA1E5E001F0067F77F /* Front_LobeUITests.swift */; };
 		27C4A50A1E5E250E0067F77F /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A5091E5E250E0067F77F /* MainVC.swift */; };
 		27C4A50D1E5E25310067F77F /* DropProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A50C1E5E25310067F77F /* DropProjectView.swift */; };
 /* End PBXBuildFile section */
@@ -34,16 +34,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		27C4A4DA1E5E001E0067F77F /* Fron Lobe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fron Lobe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27C4A4DA1E5E001E0067F77F /* Front Lobe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Front Lobe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27C4A4DD1E5E001E0067F77F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27C4A4E11E5E001E0067F77F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27C4A4E41E5E001E0067F77F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		27C4A4E61E5E001E0067F77F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		27C4A4EB1E5E001F0067F77F /* Fron LobeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fron LobeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		27C4A4EF1E5E001F0067F77F /* Fron_LobeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fron_LobeTests.swift; sourceTree = "<group>"; };
+		27C4A4EB1E5E001F0067F77F /* Front LobeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Front LobeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27C4A4EF1E5E001F0067F77F /* Front_LobeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Front_LobeTests.swift; sourceTree = "<group>"; };
 		27C4A4F11E5E001F0067F77F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		27C4A4F61E5E001F0067F77F /* Fron LobeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fron LobeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		27C4A4FA1E5E001F0067F77F /* Fron_LobeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fron_LobeUITests.swift; sourceTree = "<group>"; };
+		27C4A4F61E5E001F0067F77F /* Front LobeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Front LobeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27C4A4FA1E5E001F0067F77F /* Front_LobeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Front_LobeUITests.swift; sourceTree = "<group>"; };
 		27C4A4FC1E5E001F0067F77F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27C4A5091E5E250E0067F77F /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		27C4A50C1E5E25310067F77F /* DropProjectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropProjectView.swift; sourceTree = "<group>"; };
@@ -77,9 +77,9 @@
 		27C4A4D11E5E001E0067F77F = {
 			isa = PBXGroup;
 			children = (
-				27C4A4DC1E5E001E0067F77F /* Fron Lobe */,
-				27C4A4EE1E5E001F0067F77F /* Fron LobeTests */,
-				27C4A4F91E5E001F0067F77F /* Fron LobeUITests */,
+				27C4A4DC1E5E001E0067F77F /* Front Lobe */,
+				27C4A4EE1E5E001F0067F77F /* Front LobeTests */,
+				27C4A4F91E5E001F0067F77F /* Front LobeUITests */,
 				27C4A4DB1E5E001E0067F77F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,14 +87,14 @@
 		27C4A4DB1E5E001E0067F77F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				27C4A4DA1E5E001E0067F77F /* Fron Lobe.app */,
-				27C4A4EB1E5E001F0067F77F /* Fron LobeTests.xctest */,
-				27C4A4F61E5E001F0067F77F /* Fron LobeUITests.xctest */,
+				27C4A4DA1E5E001E0067F77F /* Front Lobe.app */,
+				27C4A4EB1E5E001F0067F77F /* Front LobeTests.xctest */,
+				27C4A4F61E5E001F0067F77F /* Front LobeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		27C4A4DC1E5E001E0067F77F /* Fron Lobe */ = {
+		27C4A4DC1E5E001E0067F77F /* Front Lobe */ = {
 			isa = PBXGroup;
 			children = (
 				27C4A50B1E5E251A0067F77F /* View */,
@@ -104,25 +104,25 @@
 				27C4A4E31E5E001E0067F77F /* Main.storyboard */,
 				27C4A4E61E5E001E0067F77F /* Info.plist */,
 			);
-			path = "Fron Lobe";
+			path = "Front Lobe";
 			sourceTree = "<group>";
 		};
-		27C4A4EE1E5E001F0067F77F /* Fron LobeTests */ = {
+		27C4A4EE1E5E001F0067F77F /* Front LobeTests */ = {
 			isa = PBXGroup;
 			children = (
-				27C4A4EF1E5E001F0067F77F /* Fron_LobeTests.swift */,
+				27C4A4EF1E5E001F0067F77F /* Front_LobeTests.swift */,
 				27C4A4F11E5E001F0067F77F /* Info.plist */,
 			);
-			path = "Fron LobeTests";
+			path = "Front LobeTests";
 			sourceTree = "<group>";
 		};
-		27C4A4F91E5E001F0067F77F /* Fron LobeUITests */ = {
+		27C4A4F91E5E001F0067F77F /* Front LobeUITests */ = {
 			isa = PBXGroup;
 			children = (
-				27C4A4FA1E5E001F0067F77F /* Fron_LobeUITests.swift */,
+				27C4A4FA1E5E001F0067F77F /* Front_LobeUITests.swift */,
 				27C4A4FC1E5E001F0067F77F /* Info.plist */,
 			);
-			path = "Fron LobeUITests";
+			path = "Front LobeUITests";
 			sourceTree = "<group>";
 		};
 		27C4A5081E5E24DE0067F77F /* Controller */ = {
@@ -144,9 +144,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		27C4A4D91E5E001E0067F77F /* Fron Lobe */ = {
+		27C4A4D91E5E001E0067F77F /* Front Lobe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 27C4A4FF1E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Fron Lobe" */;
+			buildConfigurationList = 27C4A4FF1E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Front Lobe" */;
 			buildPhases = (
 				27C4A4D61E5E001E0067F77F /* Sources */,
 				27C4A4D71E5E001E0067F77F /* Frameworks */,
@@ -156,14 +156,14 @@
 			);
 			dependencies = (
 			);
-			name = "Fron Lobe";
+			name = "Front Lobe";
 			productName = "Fron Lobe";
-			productReference = 27C4A4DA1E5E001E0067F77F /* Fron Lobe.app */;
+			productReference = 27C4A4DA1E5E001E0067F77F /* Front Lobe.app */;
 			productType = "com.apple.product-type.application";
 		};
-		27C4A4EA1E5E001F0067F77F /* Fron LobeTests */ = {
+		27C4A4EA1E5E001F0067F77F /* Front LobeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 27C4A5021E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Fron LobeTests" */;
+			buildConfigurationList = 27C4A5021E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Front LobeTests" */;
 			buildPhases = (
 				27C4A4E71E5E001F0067F77F /* Sources */,
 				27C4A4E81E5E001F0067F77F /* Frameworks */,
@@ -174,14 +174,14 @@
 			dependencies = (
 				27C4A4ED1E5E001F0067F77F /* PBXTargetDependency */,
 			);
-			name = "Fron LobeTests";
+			name = "Front LobeTests";
 			productName = "Fron LobeTests";
-			productReference = 27C4A4EB1E5E001F0067F77F /* Fron LobeTests.xctest */;
+			productReference = 27C4A4EB1E5E001F0067F77F /* Front LobeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		27C4A4F51E5E001F0067F77F /* Fron LobeUITests */ = {
+		27C4A4F51E5E001F0067F77F /* Front LobeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 27C4A5051E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Fron LobeUITests" */;
+			buildConfigurationList = 27C4A5051E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Front LobeUITests" */;
 			buildPhases = (
 				27C4A4F21E5E001F0067F77F /* Sources */,
 				27C4A4F31E5E001F0067F77F /* Frameworks */,
@@ -192,9 +192,9 @@
 			dependencies = (
 				27C4A4F81E5E001F0067F77F /* PBXTargetDependency */,
 			);
-			name = "Fron LobeUITests";
+			name = "Front LobeUITests";
 			productName = "Fron LobeUITests";
-			productReference = 27C4A4F61E5E001F0067F77F /* Fron LobeUITests.xctest */;
+			productReference = 27C4A4F61E5E001F0067F77F /* Front LobeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -226,7 +226,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 27C4A4D51E5E001E0067F77F /* Build configuration list for PBXProject "Fron Lobe" */;
+			buildConfigurationList = 27C4A4D51E5E001E0067F77F /* Build configuration list for PBXProject "Front Lobe" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -239,9 +239,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				27C4A4D91E5E001E0067F77F /* Fron Lobe */,
-				27C4A4EA1E5E001F0067F77F /* Fron LobeTests */,
-				27C4A4F51E5E001F0067F77F /* Fron LobeUITests */,
+				27C4A4D91E5E001E0067F77F /* Front Lobe */,
+				27C4A4EA1E5E001F0067F77F /* Front LobeTests */,
+				27C4A4F51E5E001F0067F77F /* Front LobeUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -287,7 +287,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27C4A4F01E5E001F0067F77F /* Fron_LobeTests.swift in Sources */,
+				27C4A4F01E5E001F0067F77F /* Front_LobeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,7 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27C4A4FB1E5E001F0067F77F /* Fron_LobeUITests.swift in Sources */,
+				27C4A4FB1E5E001F0067F77F /* Front_LobeUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,12 +304,12 @@
 /* Begin PBXTargetDependency section */
 		27C4A4ED1E5E001F0067F77F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 27C4A4D91E5E001E0067F77F /* Fron Lobe */;
+			target = 27C4A4D91E5E001E0067F77F /* Front Lobe */;
 			targetProxy = 27C4A4EC1E5E001F0067F77F /* PBXContainerItemProxy */;
 		};
 		27C4A4F81E5E001F0067F77F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 27C4A4D91E5E001E0067F77F /* Fron Lobe */;
+			target = 27C4A4D91E5E001E0067F77F /* Front Lobe */;
 			targetProxy = 27C4A4F71E5E001F0067F77F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -422,9 +422,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 7B52YTSBE4;
-				INFOPLIST_FILE = "Fron Lobe/Info.plist";
+				INFOPLIST_FILE = "Front Lobe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Fron-Lobe";
+				PRODUCT_BUNDLE_IDENTIFIER = com.honire.frontLobe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -436,9 +436,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 7B52YTSBE4;
-				INFOPLIST_FILE = "Fron Lobe/Info.plist";
+				INFOPLIST_FILE = "Front Lobe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Fron-Lobe";
+				PRODUCT_BUNDLE_IDENTIFIER = com.honire.frontLobe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -451,12 +451,12 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 7B52YTSBE4;
-				INFOPLIST_FILE = "Fron LobeTests/Info.plist";
+				INFOPLIST_FILE = "Front LobeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Fron-LobeTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Front-LobeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fron Lobe.app/Contents/MacOS/Fron Lobe";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Front Lobe.app/Contents/MacOS/Front Lobe";
 			};
 			name = Debug;
 		};
@@ -467,12 +467,12 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 7B52YTSBE4;
-				INFOPLIST_FILE = "Fron LobeTests/Info.plist";
+				INFOPLIST_FILE = "Front LobeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Fron-LobeTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Front-LobeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fron Lobe.app/Contents/MacOS/Fron Lobe";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Front Lobe.app/Contents/MacOS/Front Lobe";
 			};
 			name = Release;
 		};
@@ -482,9 +482,9 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 7B52YTSBE4;
-				INFOPLIST_FILE = "Fron LobeUITests/Info.plist";
+				INFOPLIST_FILE = "Front LobeUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Fron-LobeUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Front-LobeUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "Fron Lobe";
@@ -497,9 +497,9 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 7B52YTSBE4;
-				INFOPLIST_FILE = "Fron LobeUITests/Info.plist";
+				INFOPLIST_FILE = "Front LobeUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Fron-LobeUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.honire.Front-LobeUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "Fron Lobe";
@@ -509,7 +509,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		27C4A4D51E5E001E0067F77F /* Build configuration list for PBXProject "Fron Lobe" */ = {
+		27C4A4D51E5E001E0067F77F /* Build configuration list for PBXProject "Front Lobe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27C4A4FD1E5E001F0067F77F /* Debug */,
@@ -518,29 +518,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		27C4A4FF1E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Fron Lobe" */ = {
+		27C4A4FF1E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Front Lobe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27C4A5001E5E001F0067F77F /* Debug */,
 				27C4A5011E5E001F0067F77F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		27C4A5021E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Fron LobeTests" */ = {
+		27C4A5021E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Front LobeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27C4A5031E5E001F0067F77F /* Debug */,
 				27C4A5041E5E001F0067F77F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		27C4A5051E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Fron LobeUITests" */ = {
+		27C4A5051E5E001F0067F77F /* Build configuration list for PBXNativeTarget "Front LobeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27C4A5061E5E001F0067F77F /* Debug */,
 				27C4A5071E5E001F0067F77F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

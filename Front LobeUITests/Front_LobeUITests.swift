@@ -1,6 +1,6 @@
 //
-//  Fron_LobeUITests.swift
-//  Fron LobeUITests
+//  Front_LobeUITests.swift
+//  Front LobeUITests
 //
 //  Created by Klemen Zagar on 2/22/17.
 //  Copyright © 2017 Klemen Zagar. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class Fron_LobeUITests: XCTestCase {
+class Front_LobeUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

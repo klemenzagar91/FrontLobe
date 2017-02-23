@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "27C4A4D91E5E001E0067F77F"
-               BuildableName = "Fron Lobe.app"
-               BlueprintName = "Fron Lobe"
-               ReferencedContainer = "container:Fron Lobe.xcodeproj">
+               BuildableName = "Front Lobe.app"
+               BlueprintName = "Front Lobe"
+               ReferencedContainer = "container:Front Lobe.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "27C4A4EA1E5E001F0067F77F"
-               BuildableName = "Fron LobeTests.xctest"
-               BlueprintName = "Fron LobeTests"
-               ReferencedContainer = "container:Fron Lobe.xcodeproj">
+               BuildableName = "Front LobeTests.xctest"
+               BlueprintName = "Front LobeTests"
+               ReferencedContainer = "container:Front Lobe.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "27C4A4F51E5E001F0067F77F"
-               BuildableName = "Fron LobeUITests.xctest"
-               BlueprintName = "Fron LobeUITests"
-               ReferencedContainer = "container:Fron Lobe.xcodeproj">
+               BuildableName = "Front LobeUITests.xctest"
+               BlueprintName = "Front LobeUITests"
+               ReferencedContainer = "container:Front Lobe.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27C4A4D91E5E001E0067F77F"
-            BuildableName = "Fron Lobe.app"
-            BlueprintName = "Fron Lobe"
-            ReferencedContainer = "container:Fron Lobe.xcodeproj">
+            BuildableName = "Front Lobe.app"
+            BlueprintName = "Front Lobe"
+            ReferencedContainer = "container:Front Lobe.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27C4A4D91E5E001E0067F77F"
-            BuildableName = "Fron Lobe.app"
-            BlueprintName = "Fron Lobe"
-            ReferencedContainer = "container:Fron Lobe.xcodeproj">
+            BuildableName = "Front Lobe.app"
+            BlueprintName = "Front Lobe"
+            ReferencedContainer = "container:Front Lobe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27C4A4D91E5E001E0067F77F"
-            BuildableName = "Fron Lobe.app"
-            BlueprintName = "Fron Lobe"
-            ReferencedContainer = "container:Fron Lobe.xcodeproj">
+            BuildableName = "Front Lobe.app"
+            BlueprintName = "Front Lobe"
+            ReferencedContainer = "container:Front Lobe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

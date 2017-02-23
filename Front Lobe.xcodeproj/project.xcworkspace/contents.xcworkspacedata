@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Fron Lobe.xcodeproj">
+      location = "self:/Users/klemen/Dev/FrontLobe/Fron Lobe/Front Lobe.xcodeproj">
    </FileRef>
 </Workspace>

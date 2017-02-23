@@ -1,15 +1,15 @@
 //
-//  Fron_LobeTests.swift
-//  Fron LobeTests
+//  Front_LobeTests.swift
+//  Front LobeTests
 //
 //  Created by Klemen Zagar on 2/22/17.
 //  Copyright © 2017 Klemen Zagar. All rights reserved.
 //
 
 import XCTest
-@testable import Fron_Lobe
+@testable import Front_Lobe
 
-class Fron_LobeTests: XCTestCase {
+class Front_LobeTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
