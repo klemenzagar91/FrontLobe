@@ -8,11 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		27C4A4DE1E5E001E0067F77F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4DD1E5E001E0067F77F /* AppDelegate.swift */; };
-		27C4A4E01E5E001E0067F77F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4DF1E5E001E0067F77F /* ViewController.swift */; };
 		27C4A4E21E5E001E0067F77F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27C4A4E11E5E001E0067F77F /* Assets.xcassets */; };
 		27C4A4E51E5E001E0067F77F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27C4A4E31E5E001E0067F77F /* Main.storyboard */; };
 		27C4A4F01E5E001F0067F77F /* Fron_LobeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4EF1E5E001F0067F77F /* Fron_LobeTests.swift */; };
 		27C4A4FB1E5E001F0067F77F /* Fron_LobeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A4FA1E5E001F0067F77F /* Fron_LobeUITests.swift */; };
+		27C4A50A1E5E250E0067F77F /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A5091E5E250E0067F77F /* MainVC.swift */; };
+		27C4A50D1E5E25310067F77F /* DropProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4A50C1E5E25310067F77F /* DropProjectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +36,6 @@
 /* Begin PBXFileReference section */
 		27C4A4DA1E5E001E0067F77F /* Fron Lobe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fron Lobe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27C4A4DD1E5E001E0067F77F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		27C4A4DF1E5E001E0067F77F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		27C4A4E11E5E001E0067F77F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27C4A4E41E5E001E0067F77F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		27C4A4E61E5E001E0067F77F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -45,6 +45,8 @@
 		27C4A4F61E5E001F0067F77F /* Fron LobeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fron LobeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27C4A4FA1E5E001F0067F77F /* Fron_LobeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fron_LobeUITests.swift; sourceTree = "<group>"; };
 		27C4A4FC1E5E001F0067F77F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27C4A5091E5E250E0067F77F /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		27C4A50C1E5E25310067F77F /* DropProjectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropProjectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +97,9 @@
 		27C4A4DC1E5E001E0067F77F /* Fron Lobe */ = {
 			isa = PBXGroup;
 			children = (
+				27C4A50B1E5E251A0067F77F /* View */,
+				27C4A5081E5E24DE0067F77F /* Controller */,
 				27C4A4DD1E5E001E0067F77F /* AppDelegate.swift */,
-				27C4A4DF1E5E001E0067F77F /* ViewController.swift */,
 				27C4A4E11E5E001E0067F77F /* Assets.xcassets */,
 				27C4A4E31E5E001E0067F77F /* Main.storyboard */,
 				27C4A4E61E5E001E0067F77F /* Info.plist */,
@@ -120,6 +123,22 @@
 				27C4A4FC1E5E001F0067F77F /* Info.plist */,
 			);
 			path = "Fron LobeUITests";
+			sourceTree = "<group>";
+		};
+		27C4A5081E5E24DE0067F77F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				27C4A5091E5E250E0067F77F /* MainVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		27C4A50B1E5E251A0067F77F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				27C4A50C1E5E25310067F77F /* DropProjectView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,8 +277,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27C4A4E01E5E001E0067F77F /* ViewController.swift in Sources */,
 				27C4A4DE1E5E001E0067F77F /* AppDelegate.swift in Sources */,
+				27C4A50D1E5E25310067F77F /* DropProjectView.swift in Sources */,
+				27C4A50A1E5E250E0067F77F /* MainVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
